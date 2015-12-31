@@ -1,4 +1,4 @@
-#H.Util
+#H.Video
 * 使用方法请看 demo 及注释
 
 <br />原版官方文档：http://www.videojs.com/
